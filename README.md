@@ -1,0 +1,2 @@
+# AltiumLib
+My Altium Library
